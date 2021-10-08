@@ -3,7 +3,7 @@
 * [archcraft-adjustment-iso-profile](https://github.com/samwhelp/archcraft-adjustment-iso-profile)
 
 
-## iso-profile
+## Archcraft / iso-profile
 
 | Archcraft | Archcraft Adjustment |
 | --- | --- |
@@ -11,7 +11,7 @@
 | [archcraft-xfce](https://github.com/archcraft-os/archcraft-xfce) | [archcraft-iso-profile-xfce](https://github.com/samwhelp/archcraft-iso-profile-xfce) |
 
 
-##  Archcraft Adjustment / iso-profile
+## Archcraft Adjustment / iso-profile
 
 | iso-profile |
 | --- |
