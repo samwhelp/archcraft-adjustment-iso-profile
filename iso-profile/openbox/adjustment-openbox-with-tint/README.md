@@ -1,4 +1,6 @@
 
+# adjustment-openbox-with-tint
+
 
 ## Original Source
 
@@ -9,7 +11,7 @@
 
 | Adjustment | Base |
 | --- | --- |
-| [profile](profile) | [adjustment-start-from-21.10](https://github.com/samwhelp/archcraft-iso-profile-openbox/tree/main/iso-profile/adjustment-start-from-21.10) |
+| adjustment-openbox-with-tint / [profile](profile) | [adjustment-start-from-21.10](https://github.com/samwhelp/archcraft-iso-profile-openbox/tree/main/iso-profile/adjustment-start-from-21.10) |
 
 
 ## Config Path
