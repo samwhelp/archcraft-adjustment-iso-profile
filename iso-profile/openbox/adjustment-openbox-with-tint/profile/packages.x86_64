@@ -249,7 +249,7 @@ automake
 binutils
 bison
 calc
-dunst
+#dunst
 fakeroot
 gcc
 gparted
@@ -377,6 +377,8 @@ yay
 
 
 
+
+
 ################################################################################
 ## Head: Arch Package
 ##
@@ -457,6 +459,7 @@ sxiv
 ## Media
 ##
 
+## install `mate-media` for use `mate-volume-control-status-icon`
 mate-media
 mediainfo
 mediainfo-gui
@@ -503,6 +506,22 @@ tint2
 ##
 
 xcursor-breeze
+
+
+##
+## notifyd
+##
+
+## is used instead of dunst
+xfce4-notifyd
+
+
+##
+## pyxdg
+##
+
+## install `python-pyxdg` for `/usr/lib/openbox/openbox-xdg-autostart`
+python-pyxdg
 
 
 ##
