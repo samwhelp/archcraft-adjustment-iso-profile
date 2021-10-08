@@ -8,7 +8,7 @@
 | Archcraft | Archcraft Adjustment |
 | --- | --- |
 | [archcraft](https://github.com/archcraft-os/archcraft) | [archcraft-iso-profile-openbox](https://github.com/samwhelp/archcraft-iso-profile-openbox) |
-| https://github.com/archcraft-os/archcraft-xfce | [archcraft-iso-profile-xfce](https://github.com/samwhelp/archcraft-iso-profile-xfce) |
+| [archcraft-xfce](https://github.com/archcraft-os/archcraft-xfce) | [archcraft-iso-profile-xfce](https://github.com/samwhelp/archcraft-iso-profile-xfce) |
 
 
 ##  Archcraft Adjustment / iso-profile
