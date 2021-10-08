@@ -603,6 +603,19 @@ archcraft-modeling-thunar
 archcraft-modeling-atom
 
 
+##
+## Core / Notifyd
+##
+
+archcraft-modeling-xfce4-notifyd
+archcraft-modeling-xfce4-notifyd-xdg-autostart
+
+
+##
+## Core / Volume Control Applet
+##
+
+archcraft-modeling-mate-volume-control-status-icon-xdg-autostart
 
 
 ##
