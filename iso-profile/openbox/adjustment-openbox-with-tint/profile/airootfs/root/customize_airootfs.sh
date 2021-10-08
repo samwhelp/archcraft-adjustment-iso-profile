@@ -125,7 +125,9 @@ done
 ## -------------------------------------------------------------- ##
 
 ## Set `Qogirr` as default cursor theme
-sed -i -e 's|Inherits=.*|Inherits=Qogirr|g' /usr/share/icons/default/index.theme
+#sed -i -e 's|Inherits=.*|Inherits=Qogirr|g' /usr/share/icons/default/index.theme
+## Set `Breeze` as default cursor theme
+sed -i -e 's|Inherits=.*|Inherits=Breeze|g' /usr/share/icons/default/index.theme
 mkdir -p /etc/skel/.icons && cp -rf /usr/share/icons/default /etc/skel/.icons/default
 
 ## Update xdg-user-dirs for bookmarks in thunar and pcmanfm
