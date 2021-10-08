@@ -182,3 +182,29 @@ locale-gen
 ##
 ## Tail: Adjustment / Base
 ################################################################################
+
+
+################################################################################
+## Head: Adjustment / Shell
+##
+
+
+##
+## ## disable-ctrl-d
+## * https://unix.stackexchange.com/questions/139115/disable-ctrl-d-from-closing-my-window-with-the-terminator-terminal-emulator
+##
+
+echo >> /etc/skel/.zshrc 
+echo '## disable-ctrl-d' >> /etc/skel/.zshrc 
+echo 'set -o ignoreeof' >> /etc/skel/.zshrc
+echo >> /etc/skel/.zshrc
+
+
+echo >> /etc/skel/.bashrc
+echo '## disable-ctrl-d' >> /etc/skel/.bashrc
+echo 'set -o ignoreeof' >> /etc/skel/.bashrc
+echo >> /etc/skel/.bashrc
+
+##
+## Tail: Adjustment / Base
+################################################################################
