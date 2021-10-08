@@ -7,15 +7,28 @@
 
 ## iso-profile
 
-| iso-profile |
+| Adjustment | Base |
 | --- |
-| [adjustment-start-from-21.10](profile) |
+| [profile](profile) | [adjustment-start-from-21.10](https://github.com/samwhelp/archcraft-iso-profile-openbox/tree/main/iso-profile/adjustment-start-from-21.10) |
 
 
 ## Config Path
 
-* [packages.x86_64](profile/packages.x86_64)
-* [customize_airootfs.sh](profile/airootfs/root/customize_airootfs.sh)
+| Path | Note |
+| --- | --- |
+| [packages.x86_64](profile/packages.x86_64) | add your favorite packages |
+| [customize_airootfs.sh](profile/airootfs/root/customize_airootfs.sh) | custom your favorite action |
+
+
+## Add Archcraft Adjustment Packages
+
+| Package | Note |
+| --- | --- |
+| [archcraft-adjustment-mirrorlist](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/base/archcraft-adjustment-mirrorlist) | [archcraft-adjustment-repository](https://github.com/samwhelp/archcraft-adjustment-repository) pacman.conf mirrorlist |
+| [archcraft-adjustment-hello](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/demo/archcraft-adjustment-hello) | install for test [archcraft-adjustment-mirrorlist](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/base/archcraft-adjustment-mirrorlist) |
+| [archcraft-modeling-fcitx-chewing](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/im/archcraft-modeling-fcitx-chewing) | for input method fcitx-chewing skel config |
+
+
 
 ## Howto
 
