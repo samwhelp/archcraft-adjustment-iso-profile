@@ -8,7 +8,7 @@
 ## iso-profile
 
 | Adjustment | Base |
-| --- |
+| --- | --- |
 | [profile](profile) | [adjustment-start-from-21.10](https://github.com/samwhelp/archcraft-iso-profile-openbox/tree/main/iso-profile/adjustment-start-from-21.10) |
 
 
