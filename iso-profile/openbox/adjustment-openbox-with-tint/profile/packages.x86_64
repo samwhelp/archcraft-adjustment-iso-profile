@@ -485,6 +485,9 @@ php
 python-pygithub
 archiso
 base-devel
+cmake
+meson
+ninja
 
 
 ##
