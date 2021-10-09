@@ -416,6 +416,13 @@ fcitx-qt5
 
 
 ##
+## Icon
+##
+
+gnome-icon-theme
+
+
+##
 ## Text Editor
 ##
 
