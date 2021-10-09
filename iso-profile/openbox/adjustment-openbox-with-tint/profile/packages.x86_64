@@ -502,6 +502,12 @@ qt5-styleplugins
 tint2
 
 
+## Calendar
+
+# for tint2 clock (mouse right button click) `clock_rclick_command = gsimplecal`
+gsimplecal
+
+
 ##
 ## Cursor
 ##
