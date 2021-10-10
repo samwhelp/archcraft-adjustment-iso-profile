@@ -427,8 +427,9 @@ gnome-icon-theme
 ##
 
 micro
-atom
 mousepad
+atom
+code
 
 
 ##
@@ -522,7 +523,7 @@ gsimplecal
 ## Cursor
 ##
 
-## Breeze and Breeze_Snow 
+## Breeze and Breeze_Snow
 xcursor-breeze
 
 
