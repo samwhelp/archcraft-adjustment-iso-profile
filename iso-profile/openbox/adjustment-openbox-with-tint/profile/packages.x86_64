@@ -543,6 +543,22 @@ xfce4-notifyd
 python-pyxdg
 
 
+
+
+
+
+##
+## Wm / Herbstluftwm
+##
+
+herbstluftwm
+xorg-xsetroot
+#xterm
+#dzen2
+dmenu
+
+
+
 ##
 ## Tail: Arch Package
 ################################################################################
@@ -622,6 +638,7 @@ archcraft-modeling-font-match-order
 ## Core / Tool
 ##
 
+archcraft-modeling-vi
 archcraft-modeling-sakura
 archcraft-modeling-xfce4-terminal
 archcraft-modeling-pcmanfm-qt
@@ -649,6 +666,19 @@ archcraft-modeling-xfce4-notifyd-xdg-autostart
 ##
 
 archcraft-modeling-mate-volume-control-status-icon-xdg-autostart
+
+
+
+
+
+##
+## Wm / Herbstluftwm
+##
+
+archcraft-modeling-herbstluftwm
+archcraft-modeling-herbstluftwm-with-tint
+archcraft-tool-herbstluftwmrc-ctrl
+
 
 
 ##
