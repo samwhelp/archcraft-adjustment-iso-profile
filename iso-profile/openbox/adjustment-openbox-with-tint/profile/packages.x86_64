@@ -680,6 +680,17 @@ archcraft-modeling-herbstluftwm-with-tint
 archcraft-tool-herbstluftwmrc-ctrl
 
 
+##
+## Wm / Bspwm
+##
+
+archcraft-modeling-bspwm
+archcraft-modeling-bspwm-with-tint
+archcraft-tool-bspwmrc-ctrl
+
+
+
+
 
 ##
 ## Tail: Archcraft Adjustment Package
