@@ -703,7 +703,11 @@ archcraft-modeling-xfce4-notifyd-xdg-autostart
 archcraft-modeling-mate-volume-control-status-icon-xdg-autostart
 
 
+##
+## Core / Grub
+##
 
+archcraft-tool-grubrc-theme-ctrl
 
 
 ##
