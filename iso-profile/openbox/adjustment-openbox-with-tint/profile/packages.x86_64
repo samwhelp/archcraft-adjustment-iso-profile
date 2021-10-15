@@ -581,6 +581,13 @@ xorg-xsetroot
 dmenu
 
 
+##
+## Wm / I3wm
+##
+
+i3-gaps
+i3status
+
 
 ##
 ## Tail: Arch Package
@@ -716,6 +723,14 @@ archcraft-modeling-bspwm
 archcraft-modeling-bspwm-with-tint
 archcraft-tool-bspwmrc-ctrl
 
+
+##
+## Wm / I3wm
+##
+
+archcraft-modeling-i3wm
+archcraft-modeling-i3wm-with-tint
+#archcraft-modeling-i3wmrc-ctrl
 
 
 
