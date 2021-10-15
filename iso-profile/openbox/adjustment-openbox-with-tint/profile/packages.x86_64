@@ -517,6 +517,7 @@ base-devel
 cmake
 meson
 ninja
+rustup
 
 
 ##
