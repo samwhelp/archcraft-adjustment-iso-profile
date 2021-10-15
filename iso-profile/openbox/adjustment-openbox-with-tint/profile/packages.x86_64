@@ -201,7 +201,7 @@ zip
 p7zip
 unzip
 unrar
-xarchiver
+#xarchiver
 xdg-user-dirs
 xdg-user-dirs-gtk
 
