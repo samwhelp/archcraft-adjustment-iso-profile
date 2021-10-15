@@ -396,6 +396,13 @@ sakura
 ##
 
 pcmanfm-qt
+lxqt-sudo
+
+
+## archiver
+lxqt-archiver
+unace
+engrampa
 
 
 ##
@@ -557,10 +564,7 @@ xfce4-notifyd
 python-pyxdg
 
 
-## archiver
-unace
-engrampa
-lxqt-archiver
+
 
 
 
@@ -665,6 +669,7 @@ archcraft-modeling-pcmanfm-qt
 archcraft-modeling-thunar
 archcraft-modeling-atom
 archcraft-modeling-viewnior
+archcraft-modeling-mousepad
 
 
 ##
