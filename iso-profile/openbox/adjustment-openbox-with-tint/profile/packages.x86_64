@@ -747,6 +747,14 @@ archcraft-tool-i3wmrc-ctrl
 
 
 ##
+## Wm / Leftwm
+##
+
+archcraft-modeling-leftwm
+archcraft-modeling-leftwm-with-tint
+
+
+##
 ## Shell / zsh / oh-my-zsh
 ##
 
