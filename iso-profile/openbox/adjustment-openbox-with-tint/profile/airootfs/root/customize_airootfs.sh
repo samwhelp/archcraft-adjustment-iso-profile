@@ -194,10 +194,13 @@ locale-gen
 ## * https://unix.stackexchange.com/questions/139115/disable-ctrl-d-from-closing-my-window-with-the-terminator-terminal-emulator
 ##
 
-echo >> /etc/skel/.zshrc 
-echo '## disable-ctrl-d' >> /etc/skel/.zshrc 
-echo 'set -o ignoreeof' >> /etc/skel/.zshrc
-echo >> /etc/skel/.zshrc
+##
+## move to `package: archcraft-modeling-zshrc-for-oh-my-zsh`
+##
+#echo >> /etc/skel/.zshrc
+#echo '## disable-ctrl-d' >> /etc/skel/.zshrc
+#echo 'set -o ignoreeof' >> /etc/skel/.zshrc
+#echo >> /etc/skel/.zshrc
 
 
 echo >> /etc/skel/.bashrc

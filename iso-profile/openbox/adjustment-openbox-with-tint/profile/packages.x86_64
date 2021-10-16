@@ -337,7 +337,7 @@ archcraft-fonts
 archcraft-music
 archcraft-nvim
 archcraft-vim
-archcraft-omz
+#archcraft-omz
 archcraft-scripts
 archcraft-pixmaps
 archcraft-artworks
@@ -744,6 +744,15 @@ archcraft-modeling-i3wm
 archcraft-modeling-i3wm-with-tint
 archcraft-tool-i3wmrc-ctrl
 
+
+##
+## Shell / zsh / oh-my-zsh
+##
+
+## `package: oh-my-zsh-git` from `repo: chaotic-aur`
+oh-my-zsh-git
+archcraft-modeling-oh-my-zsh-theme-candy-fix
+archcraft-modeling-zshrc-for-oh-my-zsh
 
 
 ##
