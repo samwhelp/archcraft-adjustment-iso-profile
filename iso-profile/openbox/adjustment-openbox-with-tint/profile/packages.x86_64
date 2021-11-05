@@ -366,7 +366,7 @@ pamac-aur
 perl-linux-desktopfiles
 picom-ibhagwan-git
 polybar
-pyroom
+#pyroom
 timeshift
 toilet
 tty-clock
@@ -389,6 +389,8 @@ yay
 ##
 
 sakura
+xterm
+rxvt-unicode
 
 
 ##
@@ -410,6 +412,22 @@ engrampa
 ##
 
 noto-fonts-cjk
+
+
+##
+## xorg
+##
+## * https://blog.gtwang.org/linux/linux-change-xterm-font-family-and-size/
+## * https://wiki.archlinux.org/title/Xterm#Default_fonts
+## * https://wiki.archlinux.org/title/X_Logical_Font_Description
+## * https://wiki.archlinux.org/title/Xorg#Configuration
+## * https://wiki.archlinux.org/title/fonts#Older_applications
+## * https://wiki.archlinux.org/title/Font_configuration#Font_paths
+##
+
+xorg-mkfontscale
+xorg-xlsfonts
+xorg-xfontsel
 
 
 ##
