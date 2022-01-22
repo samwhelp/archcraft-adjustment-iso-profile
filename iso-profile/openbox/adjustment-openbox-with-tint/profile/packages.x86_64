@@ -458,6 +458,11 @@ mousepad
 atom
 code
 
+## for neovim
+## https://github.com/samwhelp/note-about-vim/tree/gh-pages/_demo/prototype/cvim
+python-pynvim
+yarn
+
 
 ##
 ## Download
