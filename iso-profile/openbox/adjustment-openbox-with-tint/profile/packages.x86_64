@@ -534,6 +534,7 @@ network-manager-applet
 xorg-server-xephyr
 fzf
 tree
+lsof
 bat
 php
 python-pygithub
